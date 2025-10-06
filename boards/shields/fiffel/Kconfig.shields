@@ -1,7 +1,0 @@
-config SHIELD_FIFFEL_LEFT
-    bool "Fiffel (left)"
-    select SHIELD_PRO_MICRO
-
-config SHIELD_FIFFEL_RIGHT
-    bool "Fiffel (right)"
-    select SHIELD_PRO_MICRO
